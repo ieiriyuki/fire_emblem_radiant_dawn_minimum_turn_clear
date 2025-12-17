@@ -57,6 +57,6 @@
 |終章Area5|1|1|2|
 |合計|133|138|153|
 
-[img](./img/radiant_dawn.JPEG)
+![戦績](https://github.com/ieiriyuki/fire_emblem_radiant_dawn_minimum_turn_clear/blob/main/img/radiant_dawn.JPEG?raw=true)
 
 [^1]: 難易度ハードとのこと
