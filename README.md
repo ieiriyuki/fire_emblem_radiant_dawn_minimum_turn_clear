@@ -59,9 +59,4 @@
 
 [img](./img/radiant_dawn.JPEG)
 
-[^1]: 難易度ハード
-
-## そのほか参考
-
-- https://www.nicovideo.jp/watch/sm12609647
-  - 将軍氏の攻略動画2部1章の瀬練尾の使い方が特徴
+[^1]: 難易度ハードとのこと
